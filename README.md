@@ -41,7 +41,8 @@ All data is based on what BidBot says in chat, so data might get weird if they k
 
 ##About
 
-This extension is made and maintained by Zac Lovoy(@zwlovoy) (BigZoz in DB Chat).  
+This extension is made and maintained by Zac Lovoy (@zwlovoy) (BigZoz in DB Chat).
+Feel free to Tweet me to complain about stuff not working.
 All Desert Bus assets are owned by [Desert Bus For Hope](http://desertbus.org "Desert Bus").
 Made during Desert Bus 8.  All code is licensed under the MIT License, so feel free to mess with it!  
 Seriously, go throw more money at them.  [DO IT!!!](http://desertbus.org/donate "DO IT")
