@@ -27,11 +27,11 @@ The following information is returned by this JSON API:
 
 ```json
 {
-	inAuction: true,		// Is there an auction currently going (boolean)
+	inAuction: false,		// Is there an auction currently going (boolean)
 	goingOnce: false,		// Is the auction in "Going Once" (boolean)
 	goingTwice: false,		// Is the auction in "Going Twice" (boolean)
-	sold: false,			// Is the auction in "Sold" (boolean)
-	price: "$0.00",			// The current price in USD (string)
+	sold: true,			// Is the auction in "Sold" (boolean)
+	price: "$10000.00",			// The current price in USD (string)
 	highBidder: "Notch",	// The bidder with the current highest bid (string)
 	prize: "Silica Gel"		// The name of the current auction according to BidBot (string)
 }
