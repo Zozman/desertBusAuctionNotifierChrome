@@ -1,16 +1,16 @@
 #Desert Bus Auction Notifier
 
-Want to give Desert Bus more of your money to the children but forget to look at the schedule?  
+Want to give [Desert Bus](http://desertbus.org "Desert Bus") more of your money to the children but forget to look at the schedule?  
 Missing out on all the awesome live auctions because you were reading Redit or Emails or that whole "job" thing?  
 Have trouble reading chat because seriously, chat is insane and complaining is for the weak?  
-Well, worry no longer, for the Desert Bus Auction Notifier is here to try and solve that!
+Well, worry no longer, for the Desert Bus Auction Notifier is here to solve that!
 
 ##Features
 
 The Desert Bus Auction Notifier is a Google Chrome extension that will give you a Google Chrome Notification when
 the current status of live auctions changes.  The following trigger an alert to your screen:
 
-- New High Price
+- New High Price (Also Indicates Auction Start)
 - Going Once
 - Going Twice
 - SOLD
