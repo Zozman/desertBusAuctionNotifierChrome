@@ -58,4 +58,7 @@ All Desert Bus assets are owned by [Desert Bus For Hope](http://desertbus.org "D
 Made during Desert Bus 8.  All code is licensed under the MIT License, so feel free to mess with it!  
 Seriously, go throw more money at them.  [DO IT!!!](http://desertbus.org/donate "DO IT")  
 
+##Want To Share?
+Use This Link: [http://git.io/V5WYUA](http://git.io/V5WYUA "http://git.io/V5WYUA")
+
 #FOR THE CHILDREN
