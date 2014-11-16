@@ -5,10 +5,16 @@ Missing out on all the awesome live auctions because you were reading Redit or E
 Have trouble reading chat because seriously, chat is insane and complaining is for the weak?  
 Well, worry no longer, for the Desert Bus Auction Notifier is here to solve that!
 
+![Main View](/screenshots/mainView.png "Main View")
+
 ##Features
 
 The Desert Bus Auction Notifier is a Google Chrome extension that will give you a Google Chrome Notification when
-the current status of live auctions changes.  The following trigger an alert to your screen:
+the current status of live auctions changes.  
+
+![Alert View](/screenshots/alertView.png "Alert View")
+
+The following trigger an alert to your screen:
 
 - New High Price (Also Indicates Auction Start)
 - Going Once
@@ -17,6 +23,11 @@ the current status of live auctions changes.  The following trigger an alert to 
 
 In addition, the notifications have a button to get you straight to Desert Bus's Twitch channel, removing that whole "typing in the web address"
 thing out of the equation.
+
+Notifications are also stored in the Chrome Notification Center so you can check previous alerts there to make sure you did not miss anything and/or
+learn the name of that jerk who sniped you at the last second.
+
+![Notification View](/screenshots/notificationView.png "Notification View")
 
 ##Data
 

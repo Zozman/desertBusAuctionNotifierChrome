@@ -34,7 +34,7 @@ function checkStatus() {
 					var opt = {
 					   type: "basic",									
 					   title: 'GOING ONCE!!!',
-					   message: 'Going Once on ' + output.prize + 'to ' + output.highBidder + " for " + output.price + "!",
+					   message: 'Going Once on ' + output.prize + ' to ' + output.highBidder + " for " + output.price + "!",
 					   iconUrl: "db-128.png",
 					   buttons: [{										
 				            title: "Go To Desert Bus"
@@ -65,7 +65,7 @@ function checkStatus() {
 	            	var opt = {
 					   type: "basic",									
 					   title: 'GOING TWICE!!!',
-					   message: 'Going Twice on ' + output.prize + 'to ' + output.highBidder + " for " + output.price + "!",
+					   message: 'Going Twice on ' + output.prize + ' to ' + output.highBidder + " for " + output.price + "!",
 					   iconUrl: "db-128.png",
 					   buttons: [{										
 				            title: "Go To Desert Bus"
