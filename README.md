@@ -2,7 +2,7 @@
 
 Want to give [Desert Bus](http://desertbus.org "Desert Bus") more of your money to the children but forget to look at the schedule?  
 Missing out on all the awesome live auctions because you were reading Redit or Emails or that whole "job" thing?  
-Have trouble reading chat because seriously, chat is insane and complaining is for the weak?  
+Have trouble reading chat because seriously, chat is insane?  
 Well, worry no longer, for the Desert Bus Auction Notifier is here to solve that!
 
 ![Main View](/screenshots/mainView.png "Main View")
@@ -52,7 +52,7 @@ All data is based on what BidBot says in chat, so data might get weird if they k
 
 ##About
 
-This extension is made and maintained by Zac Lovoy (@zwlovoy) (BigZoz in DB Chat).  
+This extension is made and maintained by Zac Lovoy [@zwlovoy](http://twitter.com/zwlovoy "@zwlovoy") ([BigZoz](http://twitch.tv/bigzoz "BigZoz") in DB Chat).  
 Feel free to Tweet me to complain about stuff not working.  
 All Desert Bus assets are owned by [Desert Bus For Hope](http://desertbus.org "Desert Bus").  
 Made during Desert Bus 8.  All code is licensed under the MIT License, so feel free to mess with it!  
