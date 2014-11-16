@@ -16,7 +16,7 @@ the current status of live auctions changes.  The following trigger an alert to 
 - SOLD
 
 In addition, the notifications have a button to get you straight to Desert Bus's Twitch channel, removing that whole "typing in the web address"
-thing out of the equasion.
+thing out of the equation.
 
 ##Data
 
