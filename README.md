@@ -36,7 +36,7 @@ The endpoint can be found at [http://dbauction.herokuapp.com/status](http://dbau
 
 The following information is returned by this JSON API:
 
-```json
+```
 {
 	inAuction: false,		// Is there an auction currently going (boolean)
 	goingOnce: false,		// Is the auction in "Going Once" (boolean)
