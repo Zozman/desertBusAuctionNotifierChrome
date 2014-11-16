@@ -1,11 +1,11 @@
 // The saved price the auction is at
-var currentPrice = "$0.00";
+var currentPrice;
 // Are we at GOING ONCE
-var goingOnce = false;
+var goingOnce;
 // Are we at GOING TWICE
-var goingTwice = false;
+var goingTwice;
 // Are we at SOLD
-var sold = false;
+var sold;
 // How many seconds should be between checks to the API serber
 var checkRate = 2000;
 // The current notification
@@ -28,6 +28,14 @@ function checkStatus() {
 		dataType: 'json',
 		// On successful data return
 		success: function(output) {
+				// If this is the first check and values are null
+				if (goingOnce === undefined) {
+					// Update first stats
+	            	goingOnce = output.goingOnce;
+	            	goingTwice = output.goingTwice;
+	            	sold = output.sold;
+	            	currentPrice = output.price;
+				}
 				// If a "Going Once" is returned and Going Once is not already triggered
 				if (output.goingOnce && !goingOnce) {
 					// Create notification
