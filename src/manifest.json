@@ -1,0 +1,13 @@
+{
+  "name": "Desert Bus Auction Notifier",
+  "background": {
+  	"scripts": ["jquery.min.js", "background.js"]
+  },
+  "version": "1.0.0",
+  "description": "Receive alerts when Desert Bus For Hope Starts Auctioning off AWESOMENESS.",
+  "permissions": [ "notifications", "tabs", "http://*/*", "https://*/*" ],
+  "icons": { "16": "db-16.png",
+             "48": "db-48.png",
+            "128": "db-128.png" },
+  "manifest_version": 2
+}
